@@ -1,19 +1,19 @@
 # Jared Landt
 
-**AI Systems Engineer** building agent orchestration frameworks and decision tools.
+**AI Systems Engineer** building production AI/ML systems, agentic workflows, and data pipelines.
 
-I design and build multi-agent systems that coordinate LLM-powered workflows with operator-aware autonomy, typed artifact pipelines, and structured decision frameworks. Background in security operations and 7 years of operational management.
+I design and build multi-agent orchestration systems, structured data ingestion pipelines, and LLM-powered tools in Python and TypeScript. Background in security operations and 7 years of operational management. Based in Omaha, NE.
 
 ---
 
 ### Featured Projects
 
-**[agent-orchestration](https://github.com/DiffMeyend/agent-orchestration)** — Multi-agent runtime with 6 specialized agents, operator state machine, context scoring engine, and MCP-compliant server. TypeScript, Nx monorepo, Zod, Vitest.
+**[agent-orchestration](https://github.com/DiffMeyend/agent-orchestration)** — Multi-agent runtime with typed artifact pipelines, operator state machine, context scoring engine, and MCP-compliant server. TypeScript, Nx monorepo, Zod, Vitest.
 
-**QF_Wiz** *(private — deployed)* — Production AI copilot for IT service desk technicians. 4-pillar architecture with diagnostic routing, PowerShell guardrails, and structured communication. Python, FastAPI, React, TypeScript.
+**[service-desk-copilot](https://github.com/DiffMeyend/service-desk-copilot)** — Production AI copilot for IT service desk operations. Structured data ingestion pipeline with PII scrubbing, diagnostic routing, PowerShell safety tiers, and context stability scoring. Python, FastAPI, React, TypeScript.
 
 ---
 
 ### Tech
 
-`TypeScript` `Python` `React` `FastAPI` `Node.js` `Zod` `Nx` `Vitest` `Claude API` `OpenAI API` `MCP` `PowerShell`
+`Python` `TypeScript` `FastAPI` `React` `Node.js` `Zod` `Nx` `Vitest` `pytest` `Claude API` `OpenAI API` `MCP` `AWS` `PowerShell`
