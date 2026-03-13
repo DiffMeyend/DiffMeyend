@@ -8,8 +8,6 @@ I design and build multi-agent orchestration systems, structured data ingestion 
 
 ### Featured Projects
 
-**[agent-orchestration](https://github.com/DiffMeyend/agent-orchestration)** — Multi-agent runtime with typed artifact pipelines, operator state machine, context scoring engine, and MCP-compliant server. TypeScript, Nx monorepo, Zod, Vitest.
-
 **[service-desk-copilot](https://github.com/DiffMeyend/service-desk-copilot)** — Production AI copilot for IT service desk operations. Structured data ingestion pipeline with PII scrubbing, diagnostic routing, PowerShell safety tiers, and context stability scoring. Python, FastAPI, React, TypeScript.
 
 ---
